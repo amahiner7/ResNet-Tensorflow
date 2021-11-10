@@ -1,4 +1,4 @@
-# ResNet - Pytorch
+# ResNet - Tensorflow
 ## ResNet50
 ## UTK Face small dataset
 
