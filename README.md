@@ -9,4 +9,4 @@
 <img src="https://user-images.githubusercontent.com/86712265/141072332-90f57862-6fca-4b35-a1ca-ac0a75e31ab4.png" width="427" height="203">
 
 ### 3. Test
-<img src="https://user-images.githubusercontent.com/86712265/141073494-d01ad4ef-f3f4-43b7-92f2-4c996e2754a6.png" width="427" height="203">
+<img src="https://user-images.githubusercontent.com/86712265/141073494-d01ad4ef-f3f4-43b7-92f2-4c996e2754a6.png" width="600" height="450">
